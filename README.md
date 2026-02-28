@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm currently working on:
+
+- Aura: Automated Unity Robot Analysis
+- My Portfolio Website
+
 <!--
 **Sebastian42-5/Sebastian42-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
